@@ -8,7 +8,7 @@
 
   <p align="center">
     An AI-powered, blockchain-integrated food donation platform enabling real-time food recovery, transparency, and impact. <br />
-    Developed by <strong>Team Tech Sangam</strong> 🌱
+  
   </p>
 </div>
 
@@ -128,35 +128,6 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-## 🤝 Support
 
-For support, reach out to us on email.
-
----
-
-### 🌍 Connect With Us
-
-### 📧 Email: TBA
-
-### 🐦 Twitter: TBA
-
-### 💼 LinkedIn: TBA
-
----
-
-## 👥 Meet the Team – Tech Sangam
-
-> A passionate group of innovators committed to reducing food waste and fighting hunger through technology.
-
-| Name               | 
-|--------------------|
-| **Sankalp Nadiger**   |  
-| **Ritesh N**     |  
-| **Hitanshi Singh**     | 
-| **Namrata**    | 
-| **Vaibhav M N**       | 
-| **Sujith** | 
-
----
 
 <h2><i>“Be the reason someone eats today. Loop the joy. FoodLoop.”</i></h2>
